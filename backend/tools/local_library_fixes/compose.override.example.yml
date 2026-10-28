@@ -1,0 +1,4 @@
+services:
+  romm:
+    image: local/romm:5.4.1-library-fixes-native-sigil
+    pull_policy: never
